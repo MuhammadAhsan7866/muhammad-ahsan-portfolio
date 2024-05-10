@@ -729,7 +729,7 @@ body.loaded {
 }
 .tj-header-area .header-info-list ul li a {
 	color: var(--tj-white);
-	font-size: var(--tj-fz-btn);
+	font-size: 22px;
 	font-weight: var(--tj-fw-medium);
 	text-decoration: none;
 	transition: all 0.3s ease-in-out 0s;
